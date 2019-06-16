@@ -1,0 +1,73 @@
+body {
+  font-family: sans-serif;
+  margin: None;
+}
+
+.Title{
+  padding-top: 10px; 
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 40px;
+  color: chocolate;
+}
+
+.InputTown{
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+  background-color: chocolate;
+}
+
+.Points {
+  margin-left: 20%;
+  margin-right: 20%;
+  position: relative;
+  font-size: 16px;
+}
+
+.TownList {
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 768px;
+  max-width: 1024px;
+}
+
+.Delete {
+  color: chocolate;
+  width:100%;
+  height: 30px;
+  border-radius: 6px;
+  border: solid 0.5px lightgrey;
+  background: white;
+}
+
+table {
+  margin-top: 30px;
+  width: 100%;
+}
+
+.Points {
+  background-color: lightgray;
+}
+
+.Town {
+  color: chocolate;
+  background: lightgrey;
+  border-radius: 6px;
+  border: solid 0.5px lightgrey;
+}
+
+td {
+  padding: 15px;
+}
+
+tr {
+  height: 50px;
+  border-bottom:  1px solid lightgrey;
+}
+
+.tab {
+  margin-left: 10px;
+}
+
+
